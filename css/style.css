@@ -1,0 +1,28 @@
+.btn-danger {
+    margin-left: 10px;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#container {
+    margin-bottom: 400px;
+}
+
+#ira-mp {
+    float: right;
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+    text-align: center;
+    background-color:silver;
+}
+
+.row.g-3 {
+    padding-bottom: 10px;
+}
